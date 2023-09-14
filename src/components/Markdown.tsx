@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 export const Markdown = (props: { name: string }) => {
   const [markdown, setMarkdown] = useState("");
-  const fileName = `./${props.name}.md`;
+  const fileName = `/react-hooks/${props.name}.md`;
 
   useEffect(() => {
     fetch(fileName)
