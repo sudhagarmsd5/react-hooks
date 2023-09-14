@@ -8,7 +8,7 @@ export const UseImperativeHandle = () => {
     <div>
       <div className="flex-wrap">
         <div className="left">
-          <Markdown name={"useContext"} />
+          <Markdown name={"useImperativeHandle"} />
         </div>
         <div className="right">
           <div>

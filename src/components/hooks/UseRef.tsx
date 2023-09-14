@@ -12,7 +12,7 @@ export const UseRef = () => {
     <div>
       <div className="flex-wrap">
         <div className="left">
-          <Markdown name={"useContext"} />
+          <Markdown name={"useRef"} />
         </div>
         <div className="right">
           <div>

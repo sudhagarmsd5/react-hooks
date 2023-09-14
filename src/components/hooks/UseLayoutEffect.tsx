@@ -16,7 +16,7 @@ export const UseLayoutEffect = () => {
     <div>
       <div className="flex-wrap">
         <div className="left">
-          <Markdown name={"useContext"} />
+          <Markdown name={"useLayoutEffect"} />
         </div>
         <div className="right">
           <div className="App">
